@@ -60,7 +60,6 @@ def batch_remove_exif():
 
 root = tk.Tk()
 root.title("Batch EXIF Data Remover")
-#root.wm_iconbitmap("your_icon.ico")  # Replace with the path to your icon file
 
 frame = ttk.Frame(root, padding="20 20 20 20")
 frame.pack()
